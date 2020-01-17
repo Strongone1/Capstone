@@ -1,0 +1,30 @@
+html {
+  --primary-color: #845ec2;
+  --secondary-color: #b39cd0;
+  --text-primary-color: #fbeaff;
+  --text-secondary-color: #00c9a7;
+}
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 10px;
+  height: 100vh; /* viewport heights */
+}
+
+h1 {
+  color: blue;
+  font-size: 28px;
+  text-decoration: underline;
+  text-align: center;
+}
+/* You want to make this an id.  */
+p {
+  position: absolute;
+  /* top: pixels of some sort
+  right: pixels of some sort */
+}
+
+h2{
+  color: blue;
+  text-align: center;
+}
+
