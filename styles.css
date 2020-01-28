@@ -66,12 +66,10 @@ margin-top: 2em;
 */
 
 h2 {
-  position: relative;
   color: #802392;
   text-align: center;
   text-shadow: 2.5px 3px 2px #60992D;
-  bottom: 300px;
-  /*top: 300px;*/
   font-size: 52px;
+
   /* z-index: 10; */
 }
